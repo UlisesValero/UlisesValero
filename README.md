@@ -2,7 +2,7 @@
 
 ---
 
-## 👨‍💻 About Me
+## 🧑‍💼 About Me
 
 I am a web developer trainee with a strong focus on front-end development, currently expanding my skills toward the back-end landscape to become a more well-rounded professional.
 
@@ -12,7 +12,7 @@ My learning journey is driven by discipline, and the desire to continuously impr
 I firmly believe that thoughtful development and attention to detail make a real difference in the final product.
 
 
-## 🛠 My Stack
+## 💻 My Stack
 
 ![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react&logoColor=61DAFB)
 ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?&style=for-the-badge&logo=javascript&logoColor=%23F7DF1E)
@@ -25,7 +25,7 @@ I firmly believe that thoughtful development and attention to detail make a real
 
 ---
 
-## 📱 Connect with Me
+## 🌐 Connect with Me
 
 I am always open to professional connections, collaboration opportunities, and meaningful conversations about web development, technology, or digital innovation.
 
