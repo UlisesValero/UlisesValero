@@ -31,7 +31,7 @@ I am always open to professional connections, collaboration opportunities, and m
 
 I highly value constructive feedback, as I consider it essential for continuous growth and improvement.  
 I also believe that collaboration and knowledge sharing are fundamental to achieving excellence in any field.  
-Let’s connect and learn together.
+Let’s learn together.
 
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ulises-valero-24b744229/)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/syjbf023ft14j1uh8d4aa8omd?si=6566e3c7303f44eb)
