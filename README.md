@@ -23,7 +23,7 @@ I firmly believe that thoughtful development and attention to detail make a real
 ![Bootstrap](https://img.shields.io/badge/Bootstrap-563D7C?style=for-the-badge&logo=bootstrap&logoColor=white)
 ![Firebase](https://img.shields.io/badge/Firebase-FFCA28?style=for-the-badge&logo=firebase&logoColor=black)
 
------
+------
 
 ## 🌐 Connect with Me
 
