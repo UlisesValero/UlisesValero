@@ -39,4 +39,4 @@ Let’s learn together.
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white)](https://www.linkedin.com/in/ulises-valero-24b744229/)
 [![Spotify](https://img.shields.io/badge/Spotify-1DB954?style=for-the-badge&logo=spotify&logoColor=white)](https://open.spotify.com/user/syjbf023ft14j1uh8d4aa8omd?si=6566e3c7303f44eb)
 [![Instagram](https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white)](https://www.instagram.com/uli.valeroo/)
-[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)]([https://my-portfolio-ruddy-rho-br3x4qk1ua.vercel.app/](https://ulisesvalero.vercel.app/))
+[![Website](https://img.shields.io/badge/Website-000000?style=for-the-badge&logo=About.me&logoColor=white)](https://ulisesvalero.vercel.app/)
